@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## String
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
