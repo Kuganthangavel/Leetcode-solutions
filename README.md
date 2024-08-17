@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
