@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0078-subsets) |
 | [0149-max-points-on-a-line](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0179-largest-number) |
 | [1835-decode-xored-permutation](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/1835-decode-xored-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0078-subsets) |
 | [1835-decode-xored-permutation](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kuganthangavel/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
